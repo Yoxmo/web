@@ -16,15 +16,19 @@
 
 ``` Instructions: 
 
+
 - Make a repl.it / vscode.dev account (connect to github on vs).
 
-- Fork this repo and keep the name the same.
+- Fork this web repo and follow the next step.
 
-- Click the try on repl.it button below and fork the program 
-   + Don't hit start, you need your need your own version for a website.
+- Click the try on repl.it button below and import the program 
+   + This will take a little but of time to load so continue onto the next step.
+  
+- Go back to github.com on your left hit the forked repo and change the url from .com to .dev
+   + Or press . and it will take you to vscode.
    
-- Hit start and enter your username. Open the live server and use vscode.
-   + It works via github commits so hit the commit button via vscode.
+- Now switch to replit and Hit start and enter your username. Open the live server and use vscode.
+   + It works via github commits so hit the commit button on vscode.
 
 ```
 
